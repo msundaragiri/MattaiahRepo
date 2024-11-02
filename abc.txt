@@ -1,0 +1,2 @@
+Line one on text file
+Line two on text file
